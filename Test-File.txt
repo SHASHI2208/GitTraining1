@@ -7,3 +7,4 @@ Branch-1 test text
 2
 
 
+Commiting new change1 in master
