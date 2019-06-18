@@ -8,3 +8,4 @@ Adding text2 for rebase 2
 Revert text 4
 Revert text 6
 Revert text 7
+Revert text 8
