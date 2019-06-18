@@ -9,3 +9,4 @@ Branch-1 test text
 
 Commiting new change1 in master
 afetr shashitag1 message
+Adding text for rebase 1
