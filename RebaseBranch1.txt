@@ -3,3 +3,4 @@ Adding text2 for rebase 1
 New demo rebase example
 Adding text2 for rebase 2
 Adding text2 for rebase 2
+Adding text2 for rebase 2
