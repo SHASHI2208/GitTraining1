@@ -6,3 +6,4 @@ Adding text2 for rebase 2
 Adding text2 for rebase 2
 Adding text2 for rebase 2
 Revert text 4
+Revert text 6
