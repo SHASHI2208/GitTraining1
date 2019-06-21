@@ -11,7 +11,13 @@ Commiting new change1 in master
 afetr shashitag1 message
 Adding text for rebase 1
 
+
+Shashi is working on below points
+1. test
+2. execute
+
 Kiran is working on below points:
 a.create branch
 b.merge with master branch
 c.Rebase
+
